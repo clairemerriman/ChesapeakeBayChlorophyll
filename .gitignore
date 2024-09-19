@@ -1,0 +1,18 @@
+
+.DS_Store
+*.doc
+*.pt
+data/plank_ChesapeakeBenthicIBI.csv
+data/plank_ChesapeakeBenthicBioMass.csv
+data/plank_ChesapeakeBenthicSediment.csv
+data/plank_ChesapeakeBenthicTaxonomic.csv
+data/plank_ChesapeakeBenthicWaterQuality.csv
+data/plank_ChesapeakeTidalPlankton.csv
+data/plank_ChesapeakeWaterQuality.csv
+data/plank_ChesapeakeBayDataHubCombined.csv
+data/plank_ChesapeakeBay_clean.csv
+data/plank_ChesapeakeBay_all_buoys.csv
+data/plank_ChesapeakeBay_all_buoys_clean.csv
+data/satelliteBuoy_clean 2.nc4
+data/satelliteBuoy_clean.nc4
+data/satelliteBuoy_combined.nc4
