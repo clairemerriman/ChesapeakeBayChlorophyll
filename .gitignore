@@ -16,3 +16,6 @@ data/plank_ChesapeakeBay_all_buoys_clean.csv
 data/satelliteBuoy_clean 2.nc4
 data/satelliteBuoy_clean.nc4
 data/satelliteBuoy_combined.nc4
+*.log
+notebooks/RoughModelCleaning.ipynb
+*.csv
