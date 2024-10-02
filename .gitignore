@@ -20,3 +20,5 @@ data/satelliteBuoy_combined.nc4
 notebooks/RoughModelCleaning.ipynb
 *.csv
 *.nc4
+*.csv
+*.nc4
