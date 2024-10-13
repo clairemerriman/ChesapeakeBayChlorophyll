@@ -31,3 +31,6 @@ data/filesForModel/tensors/features_tensor.pkl
 /data/filesForModel/withDateFeatures
 *.pkl
 *.gsheet
+*.gslides
+*.log
+notebooks/APIs/regional_umap_indeces
