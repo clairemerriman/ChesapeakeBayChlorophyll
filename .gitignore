@@ -22,3 +22,12 @@ notebooks/RoughModelCleaning.ipynb
 *.nc4
 *.csv
 *.nc4
+data/filesForModel/tensors/features_tensor.pkl
+/notebooks/models/checkpoints
+/notebooks/models/checkpoints
+/notebooks/models/checkpoints
+*.log
+/data/filesForModel/noDateFeatures
+/data/filesForModel/withDateFeatures
+*.pkl
+*.gsheet
